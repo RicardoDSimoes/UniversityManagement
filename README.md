@@ -18,14 +18,20 @@ Such as:
  7. Teachers;
  8. Teachers schedule;
 
+
 **Features**
+
 Possibility to receive information through txt and bin, and can save the data to txt and bin also.
 The project have an graphic interface developed with JavaFx and have the possibility to see all the information listed above.
 
+
 **To Do**
+
 Organize and comment all code.
 Improve Graphic interface.
 Fix any bugs 👾.
 
+
 **Developed With:**
+
 Developed with JavaFx
